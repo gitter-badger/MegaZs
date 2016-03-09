@@ -1,7 +1,7 @@
-######MegaZs
+MegaZs
 ------------
 
-###Installation
+Installation
 ------------
 ```bash
 # Tested on Ubuntu 14.04, for other OSs check out https://github.com/yagop/telegram-bot/wiki/Installation
