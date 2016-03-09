@@ -11,13 +11,13 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ```bash
 # After those dependencies, lets install the bot
 cd $HOME
-git clone https://github.com/yagop/telegram-bot.git
-cd telegram-bot
+git clone https://github.com/ShaTelTeam/MegaZs.git -b supergroups
+cd MegaZs
 ./launch.sh install
 ./launch.sh # Will ask you for a phone number & confirmation code.
 ```
 
-Enable more [`plugins`](https://github.com/yagop/telegram-bot/tree/master/plugins)
+Enable more [`plugins`](https://github.com/shatelteam/megazs/tree/master/plugins)
 -------------
 See the plugins list with `!plugins` command.
 
