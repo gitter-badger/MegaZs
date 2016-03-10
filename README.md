@@ -1,6 +1,8 @@
 MegaZs
 ------------
 
+[![Join the chat at https://gitter.im/ShaTelTeam/MegaZs](https://badges.gitter.im/ShaTelTeam/MegaZs.svg)](https://gitter.im/ShaTelTeam/MegaZs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Installation
 ------------
 ```bash
